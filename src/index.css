@@ -120,6 +120,10 @@ label {
   box-shadow: 0px 0px 10px #e6ebf7 inset;
 }
 
+.repository {
+  height: 50px;
+}
+
 .form-group dt {
   margin: 0 0 6px;
 }
